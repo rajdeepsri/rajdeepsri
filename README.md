@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Rajdeep+Shrivastava;Developer+in+the+Day%2C+Batman+at+Night)](https://git.io/typing-svg)
-<h3 align="center">Passionate Front-end Developer with a focus on HTML, CSS, JavaScript, and React."</h3>
+<h3 align="center">Seeking Opportunities in Front-end Development with a focus on HTML, CSS, JavaScript, and React."</h3>
 <br />
 Here is my brief introduction:
 
